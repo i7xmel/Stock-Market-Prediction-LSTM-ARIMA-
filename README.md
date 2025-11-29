@@ -34,3 +34,6 @@ The notebook sequentially:
 - Python, yfinance, Pandas, NumPy
 - Matplotlib, Plotly for visualizations
 - Jupyter Notebook for interactive analysis
+
+<img width="962" height="724" alt="image" src="https://github.com/user-attachments/assets/523a2484-5a92-410b-bbb6-68d9c937c7a0" />
+
